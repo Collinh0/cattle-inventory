@@ -1,0 +1,52 @@
+{
+  "cattle": [
+    {
+      "id": "1",
+      "name": "Fresian",
+      "origin": "Netherlands",
+      "horns": "No",
+      "butterfat-content": "7%",
+      "poster": "images/fresian.jpeg"
+    },
+    {
+      "id": "2",
+      "name": "Holstein",
+      "origin": "Holland",
+      "horns": "Yes",
+      "butterfat-content": "3%",
+      "poster": "images/holstein.jpeg"
+    },
+    {
+      "id": "3",
+      "name": "Aberdeen Angus",
+      "origin": "Scotland",
+      "horns": "No",
+      "butterfat-content": "5%",
+      "poster": "images/aberdeenAngus.png"
+    },
+    {
+      "id": "4",
+      "name": "Hereford",
+      "origin": "England",
+      "horns": "No",
+      "butterfat-content": "7%",
+      "poster": "images/hereford.jpeg"
+    },
+    {
+      "id": "5",
+      "name": "Jersey",
+      "origin": "Belgium",
+      "horns": "Yes",
+      "butterfat-content": "4%",
+      "poster": "images/jersey.png"
+    },
+    {
+      "id": "6",
+      "name": "Simmental",
+      "origin": "Denmark",
+      "horns": "Yes",
+      "butterfat-content": "5%",
+      "poster": "images/simmental.png"
+    }
+  ]
+}
